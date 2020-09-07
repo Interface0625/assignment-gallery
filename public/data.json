@@ -1,0 +1,161 @@
+{
+  "Admir Hamzic": {},
+  "Alexander Ghazar": {
+    "thumbnail": "/thumbs/Alexander Ghazar.jpg",
+    "projectName": "Project-B",
+    "port": 8081,
+    "github": "https://github.com/Metoes/Project-B.git"
+  },
+  "Dennis Malm": {
+    "thumbnail": "/thumbs/Dennis Malm.jpg",
+    "projectName": "messages",
+    "github": "https://github.com/DennisMalm/messages.git"
+  },
+  "Elliot Nyberg": {},
+  "Emil Lundstedt": {
+    "thumbnail": "/thumbs/Emil Lundstedt.jpg",
+    "description": "A math game with pokemon theme written in ES6 and React",
+    "projectName": "Pokecatch",
+    "github": "https://github.com/EmilLundstedt/Pokecatch.git",
+    "port": 8082
+  },
+  "Erik Engholm": {
+    "thumbnail": "/thumbs/Erik Engholm.jpg",
+    "projectName": "react-blog",
+    "description": "A blog template with login feature written in ES6 and React.",
+    "github": "https://github.com/Erikengholm/react-blog.git",
+    "port": 8083
+  },
+  "Heidar Selman": {
+    "thumbnail": "/thumbs/Heidar Selman.jpg",
+    "projectName": "fotogalleri-projekt",
+    "description": "Photo gallery",
+    "github": "https://github.com/HeidarSelman/fotogalleri-projekt.git",
+    "port": 8084
+  },
+  "Henrik Lyselius": {
+    "thumbnail": "/thumbs/Henrik Lyselius.jpg",
+    "projectName": "STIJSRamverk",
+    "github": "https://github.com/HenrikLyselius/STIJSRamverk.git",
+    "port": 8085
+  },
+  "Hugo Vestberg": {
+    "thumbnail": "/thumbs/Hugo Vestberg.jpg",
+    "projectName": "react-todolist",
+    "description": "Todo list written in ES6 and React",
+    "github": "https://github.com/huggge/react-todolist.git",
+    "port": 8086
+  },
+  "Karolina Papica": {},
+  "Kristoffer Näsström": {
+    "thumbnail": "/Kristoffer Näsström.png",
+    "projectName": "js-frameworks-course",
+    "description": "Trivia quiz app written in TypeScript and React.",
+    "github": "https://github.com/Xenofono/js-frameworks-course.git",
+    "port": 8087
+  },
+  "Linn Hallström": {
+    "thumbnail": "/thumbs/Linn Hallström.jpg",
+    "projectName": "ToDoListApp_InReact",
+    "github": "https://github.com/LinnHallstrom/ToDoListApp_InReact.git",
+    "port": 8088
+  },
+  "Marcus Lentenius": {
+    "thumbnail": "/thumbs/Marcus Lentenius.jpg",
+    "projectName": "grocery-list",
+    "description": "Grocery list based on recepies written in ES6 and React.",
+    "github": "https://github.com/marcus-lentenius/grocery-list.git",
+    "port": 8089
+  },
+  "Marcus Wahlstedt": {
+    "thumbnail": "/thumbs/Marcus Wahlstedt.jpg",
+    "projectName": "Reacttest",
+    "description": "Todo list written in ES6 and React",
+    "github": "https://github.com/Marcus-95/Reacttest.git",
+    "port": 8090
+  },
+  "Martin Hage": {
+    "thumbnail": "/thumbs/Martin Hage.jpg",
+    "projectName": "fakegram",
+    "description": "Instagram spin-off in ES6 and React",
+    "github": "https://github.com/MartinHage/fakegram.git",
+    "port": 8091
+  },
+  "Mehdi Walldén": {},
+  "Mikaela Hobring": {
+    "thumbnail": "/thumbs/Mikaela Hobring.jpg",
+    "projectName": "mikaelastodolist",
+    "description": "Todo list written in ES6 and React.",
+    "github": "https://github.com/Mikaela92/mikaelastodolist.git",
+    "port": 8092
+  },
+  "Patricia Dunphy": {
+    "thumbnail": "/thumbs/Patricia Dunphy.jpg",
+    "projectName": "school-assignment-mv-frameworks-javascript",
+    "description": "Todo list written in ES6 and React.",
+    "github": "https://github.com/patriciadunphy/school-assignment-mv-frameworks-javascript.git",
+    "port": 8093
+  },
+  "Pontus Olsson": {
+    "thumbnail": "/thumbs/Pontus Olsson.jpg",
+    "projectName": "slutuppgift",
+    "description": "Todo list written in ES6 and React.",
+    "github": "https://github.com/pontusOlssonGit/slutuppgift.git",
+    "port": 8094
+  },
+  "Raid Najaf": {},
+  "Robbin Höglin": {
+    "thumbnail": "/thumbs/Robbin Höglin.jpg",
+    "projectName": "sturdy-waddle",
+    "description": "A game written in ES6 and React.",
+    "github": "https://github.com/Gargamel113/sturdy-waddle.git",
+    "port": 8095
+  },
+  "Sandra Boström": {
+    "thumbnail": "/thumbs/Sandra Boström.jpg",
+    "projectName": "SlutprojMvRam",
+    "description": "Gallery written in ES6 and React.",
+    "github": "https://github.com/SandraBostrom/SlutprojMvRam.git",
+    "port": 8096
+  },
+  "Sinan Özbek": {
+    "thumbnail": "/thumbs/Sinan Özbek.jpg",
+    "projectName": "weatherforecast",
+    "github": "https://github.com/sintan92/weatherforecast.git",
+    "description": "Whether forcast app based on geolocation written in ES6 and React.",
+    "port": 8097
+  },
+  "Srood Zandi": {
+    "github": "https://github.com/sroodz/React-Project.git"
+  },
+  "Tatjana Mikhailova": {
+    "thumbnail": "/thumbs/Tatjana Mikhailova.jpg",
+    "projectName": "VueProject",
+    "description": "IMDB Top 250 gallery written in ES6 and VUE.",
+    "github": "https://github.com/MikhailovaTatiana/VueProject.git",
+    "port": 8098
+  },
+  "Ullrika Höök": {
+    "thumbnail": "/thumbs/Ullrika Höök.jpg",
+    "projectName": "book-tips-site",
+    "description": "Book inspiration site written in ES6 and React.",
+    "github": "https://github.com/UlrikaHook/book-tips-site.git",
+    "port": 8099
+  },
+  "Valter Bergkvist": {
+    "projectName": "ReactProject",
+    "github": "https://github.com/valterbergqvist/ReactProject.git"
+  },
+  "Vicke Trossing": {
+    "thumbnail": "/thumbs/Vicke Trossing.jpg",
+    "projectName": "TODOListREACT",
+    "description": "A todo list with random quotes written in ES6 and REACT.",
+    "github": "https://github.com/VickeTrossing/TODOListREACT.git",
+    "port": 8100
+  },
+  "William Skaug": {
+    "thumbnail": "/thumbs/William Skaug.jpg",
+    "github": "https://github.com/loplinlan/Dummygram.git",
+    "port": 8101
+  }
+}
